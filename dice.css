@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+.upper {
+    margin-bottom: 18px;
+    text-align: center;
+    font-family: 'Beau Rivage', cursive;
+    color: Red;
+    font-size: 6rem;
+}
+.dice
+{
+    display: inline-block;
+}
+img {
+    width: 80%;
+}
+p
+{
+    margin: 10px 0;
+    font-weight: bold;
+    text-shadow: 7px;
+  color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 3.5rem;
+}
+body {
+
+    text-align: center;
+
+}
+
+
+.bottom {
+text-shadow: #4ECCA3;
+/* position: absolute; */
+bottom: 0px;
+}
